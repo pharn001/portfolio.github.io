@@ -1,0 +1,56 @@
+{
+            "profile": {
+                "name": "Sompharn",
+                "role": "Full-Stack Developer",
+                "tagline": "Building modern web applications with clean code",
+                 "image": "./0193.jpg"
+            },
+            "about": "Passionate Full-Stack Developer with expertise in both backend and frontend technologies. Specializing in building scalable web applications using PHP, TypeScript, and modern JavaScript frameworks. Experienced in database design, API development, and cloud deployment.",
+            "skills": [
+                { "name": "PHP", "level": 90 },
+                { "name": "Elysia.js (TypeScript)", "level": 85 },
+                { "name": "React / Next.js", "level": 88 },
+                { "name": "Tailwind CSS", "level": 92 },
+                { "name": "Prisma ORM", "level": 85 },
+                { "name": "MySQL / PostgreSQL", "level": 87 },
+                { "name": "MongoDB", "level": 80 },
+                { "name": "JWT Authentication", "level": 90 },
+                { "name": "Vercel / Railway", "level": 85 },
+                { "name": "Ubuntu Server", "level": 82 }
+            ],
+            "projects": [
+                {
+                    "title": "E-Commerce Platform",
+                    "description": "Full-stack e-commerce solution with Next.js, Prisma, and PostgreSQL. Features include product management, cart system, and secure payment integration.",
+                    "image": "🛒",
+                    "demo": "https://demo.example.com",
+                    "github": "https://github.com/yourusername/ecommerce"
+                },
+                {
+                    "title": "Real-time Chat Application",
+                    "description": "WebSocket-based chat app built with Elysia.js and React. Supports multiple rooms, typing indicators, and message history.",
+                    "image": "💬",
+                    "demo": "https://chat.example.com",
+                    "github": "https://github.com/yourusername/chat"
+                },
+                {
+                    "title": "Task Management System",
+                    "description": "Collaborative task manager with drag-and-drop interface, real-time updates, and team collaboration features.",
+                    "image": "✅",
+                    "demo": "https://tasks.example.com",
+                    "github": "https://github.com/yourusername/tasks"
+                },
+                {
+                    "title": "Analytics Dashboard",
+                    "description": "Data visualization dashboard using React, Chart.js, and MongoDB. Real-time metrics and customizable reports.",
+                    "image": "📊",
+                    "demo": "https://analytics.example.com",
+                    "github": "https://github.com/yourusername/analytics"
+                }
+            ],
+            "contact": {
+                "email": "your.email@example.com",
+                "github": "https://github.com/yourusername",
+                "linkedin": "https://linkedin.com/in/yourusername"
+            }
+        }
